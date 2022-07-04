@@ -1,0 +1,410 @@
+/* CSS Document */
+body
+{
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    background: #FFFFFF;
+}
+.ClsBlueShade1Bg
+{
+	background: #BBDDFF;
+}
+.ClsBlueShade2Bg
+{
+	background: #3B8FE4;
+}
+.ClsBlueShade3Bg
+{
+	background: #00AAE7;
+}
+.ClsWhiteShadeBg
+{
+	background: #FFFFFF;
+}
+.ClsMainYellowBg
+{
+	BACKGROUND: url(/barcrecruit/images/yellow_middle_link.gif) left 100%;
+    background-position: left bottom;
+	BACKGROUND-REPEAT: repeat-x
+}
+.ClsMainBlueBg
+{
+	BACKGROUND: url(/barcrecruit/images/blue_bg_link.gif) left 100%;
+    background-position: left bottom;
+	BACKGROUND-REPEAT: repeat-x
+}
+.ClsLoginBg
+{
+	BACKGROUND: url(/barcrecruit/images/login_middle.gif) left 100%;
+    background-position: left bottom;
+	BACKGROUND-REPEAT: repeat-x
+}
+.ClsSearchBg
+{
+	BACKGROUND: url(/barcrecruit/images/search_middle_bg.gif) left 100%;
+    background-position: left bottom;
+	BACKGROUND-REPEAT: repeat-x
+}
+.ClsCategoryBg
+{
+	BACKGROUND: url(/barcrecruit/images/category_middle_bg.gif) left 100%;
+    background-position: left bottom;
+	BACKGROUND-REPEAT: repeat-x
+}
+.ClsCategoryTextBg
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-align:left;
+	color: #003F80;
+	text-decoration: none;
+}
+.ClsCategoryBorder
+{
+	border:solid;
+	border-top-width:0px;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	border-left-color: #0A67C7;
+	border-right-color: #0A67C7;
+	background-color: #DEEDFC;
+}
+.ClsContentLeftBg
+{
+	BACKGROUND: url(/barcrecruit/images/content_v_line.gif) left 100%;
+    background-position: left;
+	BACKGROUND-REPEAT: repeat-y
+}
+.ClsContentRightBg
+{
+	BACKGROUND: url(/barcrecruit/images/content_v_line.gif) left 100%;
+    background-position: right;
+	BACKGROUND-REPEAT: repeat-y
+}
+.ClsContentTopBg
+{
+	BACKGROUND: url(/barcrecruit/images/content_h_line.gif) left 100%;
+    background-position: top;
+	BACKGROUND-REPEAT: repeat-x
+}
+.ClsContentBottomBg
+{
+	BACKGROUND: url(/barcrecruit/images/content_h_line.gif) left 100%;
+    background-position: bottom;
+	BACKGROUND-REPEAT: repeat-x
+}
+.ClsContentSaprator
+{
+	BACKGROUND: url(/barcrecruit/images/v_dots.gif) center 100%;
+    background-position: middle;
+	BACKGROUND-REPEAT: repeat-y
+}
+.ClsContentSaprator1
+{
+	BACKGROUND: url(/barcrecruit/images/h_dots.gif) center 100%;
+    background-position: center middle;
+	BACKGROUND-REPEAT: repeat-x
+}
+.ClsMainLinks1
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-align:center;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.ClsBlackMenuText
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-align:center;
+	color: #000000;
+	text-decoration: none;
+}
+.ClsWhiteMenuText
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-align:center;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.ClsSearchText
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	text-align:left;
+	color: #000000;
+	text-decoration: none;
+}
+.ClsBlueText
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: right;
+	color: #0361C3;
+	text-decoration: none;
+}
+.ClsInternalTitle
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	height:30px;
+	text-align: left;
+	color: #0361C3;
+	text-decoration: none;
+}
+.ClsNavigationText
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	text-align:left;
+	color: #000000;
+	background-color:#F3F3F3;
+	text-decoration: none;
+}
+.ClsText1
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	text-align:justify;
+	color: #000000;
+	text-decoration: none;
+}
+.ClsText2
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	/*text-align:left;*/
+	color: #000000;
+	text-decoration: none;
+}
+.RptClsText2
+{
+	font-family: Arial, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	/*text-align:left;*/
+	color: #000000;
+	text-decoration: none;
+}
+.ClsText3
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-align:left;
+	color: #FF0000;
+	text-decoration: none;
+}
+.ClsText4
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	/*text-align:left;*/
+	color: #003F80;
+	text-decoration: none;
+}
+.ClsText5
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	text-align:left;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.ClsText6
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+.ClsContentText1
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-align:left;
+	color: #003F80;
+	text-decoration: none;
+}
+.ClsContentText2
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	text-align:left;
+	color: #FF0000;
+	text-decoration: none;
+}
+.ClsContentText3
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	text-align:left;
+	color: #000000;
+	text-decoration: none;
+}
+.ClsContentText4
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	text-align:right;
+	color: #003F80;
+	text-decoration: none;
+}
+.error
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-align:left;
+	color: #FF0000;
+	text-decoration: none;
+}
+.ClsBottomBg
+{
+	BACKGROUND: url(/barcrecruit/images/bottom_link_bg.gif) left 100%;
+    background-position: left bottom;
+	BACKGROUND-REPEAT: repeat-x
+}
+.ClsBottomLink
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: left;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.ClsCopyright1
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: right;
+	color: #E2E2E2;
+	text-decoration: none;
+}
+.ClsCopyright2
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: right;
+	color: #000000;
+	text-decoration: none;
+}
+
+
+/* Dropdown Menu CSS */
+
+#dropmenudiv{
+position:absolute;
+border:1px solid black;
+border-bottom-width: 0;
+font:normal 10px Verdana;
+line-height:18px;
+z-index:100;
+
+}
+
+#dropmenudiv a{
+width: 100%;
+display: block;
+text-indent: 3px;
+border-bottom: 1px solid black;
+padding: 1px 0;
+text-decoration: none;
+font-weight: bold;
+color : #000000
+}
+
+#dropmenudiv a:hover{ /*hover background color*/
+background-color: #0A67C7;
+color : #FFFFFF;
+}
+.failureMessage
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	text-align:left;
+	color: #ff0000;
+	text-decoration: none;
+}
+.successMessage
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #0361C3;
+	text-align:left;
+	text-decoration: none;
+	
+}
+.postlink{
+}
+.postlink a:link {
+	color: #FF0000;
+	text-decoration: none;
+}
+.postlink a:visited {
+	text-decoration: none;
+	color: #FF0000;
+}
+.postlink a:hover {
+	text-decoration: none;
+	color: #FF0000;
+}
+.postlink a:active {
+	text-decoration: none;
+	color: #FF0000;
+}
+
+.loginlink{
+}
+.loginlink a:link {
+	color:#FFFFFF;
+	text-decoration: none;
+	font-weight:bold;
+}
+.loginlink a:visited {
+	text-decoration: none;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+.loginlink a:hover {
+	text-decoration: none;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+.loginlink a:active {
+	text-decoration: none;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+.txtBlue
+{
+    color: #003F80;
+}
+/* Dropdown End */
